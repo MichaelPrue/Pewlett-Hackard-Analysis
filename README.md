@@ -1,11 +1,11 @@
 # Pewlett-Hackard-Analysis
 ## Overview
-Determining the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program
+Determining the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program.
 ## Results
-- There is going to be a big loss in Senior Employees with Senior Engineer and Senior Staff being the top 2 categories from chart of retiring titles below
+- There is going to be a big loss in Senior Employees with Senior Engineer and Senior Staff being the top 2 categories from chart of retiring titles below.
 - Fortunately only 2 managers were up for retirement so managerial roles will not be an issue.
 - Since there is not as much loss for entry and mid level workers. We have the ability to promote from within the company
-- About 30% of the workforce is up for retirement in the near future due to the "sliver tsunami"
+- About 30% of the workforce is up for retirement in the near future due to the "sliver tsunami".
 
 ![retiring titles](Retiring_titles.png)
 ## Summary
