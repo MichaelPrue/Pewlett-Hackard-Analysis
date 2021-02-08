@@ -6,6 +6,7 @@ Determining the number of retiring employees per title, and identify employees w
 - Fortunately only 2 managers were up for retirement so managerial roles will not be an issue.
 - Since there is not as much loss for entry and mid level workers. We have the ability to promote from within the company
 - About 30% of the workforce is up for retirement in the near future due to the "sliver tsunami"
+
 ![retiring titles](Retiring_titles.png)
 ## Summary
 - About 90,000 jobs are closing in on retirement right now. A few things to look at is how we can hire within the company looking for a query of the amount of people not in senior level positions that could be promoted. Trying to push as many open jobs to entry level positions if it makes sense to do so. 
